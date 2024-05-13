@@ -5,6 +5,6 @@
 * red
 * blue
 * green
-* 1. purple
+  1. purple
   2. orange
   3. yellow
