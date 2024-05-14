@@ -16,7 +16,8 @@ Oak Ridge, TN
   * Digital multimeters
   * Digital Storage Oscilloscopes
   * Valhalla Scientific Precision Voltage Standard
-  * I can read and interpret schematics for electronic troubleshooting and repair
+  * I can read and interpret schematics for troubleshooting and repair
+  * Skilled in creating databases using Excel Visual Basic for Applications (VBA)
 # Hobbies
 1. Painting
 1. Model trains
