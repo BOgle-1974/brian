@@ -4,37 +4,33 @@
 Oak Ridge, TN
 865-661-6707
 # Technologies
-- C++ Learned in college
-- Javascript will be learning soon
-- HTML   currently learning
-- [Python] will eventually learn, but I jave been introduced to it
-- CSS currently learning
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
-# Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+- C++ 
+- Javascript 
+- HTML   
+- Excel Visual Basic for Applications
+- CSS 
+# Technical Skills
+* Component-level troubleshooting
+* I know how to use various types of test equipment such as:
+  * Digital multimeters
+  * Digital Storage Oscilloscopes
+  * Valhalla Scientific Precision Voltage Standard
+  * I can read and interpret schematics for electronic troubleshooting and repair
+# Hobbies
+1. Painting
+1. Model trains
+   1. Layout landscaping
+   1. Building layout model homes and buildings
+  
 
 #### Hi there, I'm Brian Ogle 
-- 👋 Hi, I’m @brianogle
+- 👋 Hi, I’m BOgle-1974 
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me.
 [<img alt=https:
 <!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BOgle-1974/brian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
