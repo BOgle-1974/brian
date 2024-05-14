@@ -27,5 +27,5 @@ Oak Ridge, TN
 - 👋 Hi, I’m BOgle-1974 
 - 🌱 I’m currently training on [GitHub Course][website]
 
-### connect with me.
-[website]: https://www.facebook.com/brian.ogle.9/
+### connect with me
+https://www.facebook.com/brian.ogle.9/
