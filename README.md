@@ -1,6 +1,7 @@
 # Contact Information
 **BrianOgle_**<br/>
 *brianogle74@gmail.com*<br/>
+Oak Ridge, TN
 865-661-6707
 # Technologies
 - C++ Learned in college
@@ -31,7 +32,7 @@ green | 0x0000ff | my color
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me.
-[<img alt=https://www.facebook.com/photo/?fbid=10160492310974780&set=a.425170884779
+[<img alt=https:
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
