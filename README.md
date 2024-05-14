@@ -28,5 +28,5 @@ Oak Ridge, TN
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me
-https://www.facebook.com/brian.ogle.9/
-https://www.instagram.com/bogle74
+* https://www.facebook.com/brian.ogle.9/
+* https://www.instagram.com/bogle74
