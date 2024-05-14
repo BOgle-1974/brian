@@ -8,7 +8,8 @@ Oak Ridge, TN
 - Javascript 
 - HTML   
 - Excel Visual Basic for Applications
-- CSS 
+- CSS
+- Python
 # Technical Skills
 * Component-level troubleshooting
 * I know how to use various types of test equipment such as:
