@@ -26,7 +26,7 @@ red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color
 
-#### Hi there, I'm Brian Ogle [karlllarson][website]
+#### Hi there, I'm Brian Ogle 
 - 👋 Hi, I’m @brianogle
 - 🌱 I’m currently training on [GitHub Course][website]
 
