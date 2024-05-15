@@ -28,7 +28,7 @@ Oak Ridge, TN
    1. Building layout model homes and buildings
   
 
-#### Hi there, I'm Brian Ogle 
+#### Hi there!!! 
 - 👋 Hi, I’m BOgle-1974 
 - 🌱 I’m currently training on [GitHub Course][website]
 
