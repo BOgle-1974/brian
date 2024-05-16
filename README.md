@@ -18,9 +18,10 @@ Oak Ridge, TN
   * Valhalla Scientific Precision Voltage Standard
 * I can read and interpret schematics for troubleshooting and repair
 * Skilled in creating databases using Excel Visual Basic for Applications (VBA)
-* Worked with Labview 2012
 * Responsible for the calibration of all test equipment
 * Maintain records of equipment calibration both in a folder and on a computer database I created
+* Write and maintain test procedures using Microsoft Office 365 suite, with Microsoft Word using the requirements for testing given by the Engineering Department.
+* 
 # Hobbies
 1. Painting
 1. Model trains
