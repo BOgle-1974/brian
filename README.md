@@ -33,6 +33,6 @@ Oak Ridge, TN
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me
-[[\images\C:\Users\brian\OneDrive\Pictures\Saved Pictures\Brian.jpg}|
+[[/images/C:/Users/brian/OneDrive/Pictures/Saved Pictures/Brian.jpg}|
 * https://www.facebook.com/brian.ogle.9/
 * https://www.instagram.com/bogle74
