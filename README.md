@@ -16,11 +16,11 @@ Oak Ridge, TN
   * Digital multimeters
   * Digital Storage Oscilloscopes
   * Valhalla Scientific Precision Voltage Standard
-  * I can read and interpret schematics for troubleshooting and repair
-  * Skilled in creating databases using Excel Visual Basic for Applications (VBA)
-  * Worked with Labview 2012
-  * Responsible for the calibration of all test equipment
-  * Maintain records of equipment calibration both in a folder and on a computer database I created
+* I can read and interpret schematics for troubleshooting and repair
+* Skilled in creating databases using Excel Visual Basic for Applications (VBA)
+* Worked with Labview 2012
+* Responsible for the calibration of all test equipment
+* Maintain records of equipment calibration both in a folder and on a computer database I created
 # Hobbies
 1. Painting
 1. Model trains
